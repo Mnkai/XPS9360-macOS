@@ -140,7 +140,7 @@
 				<key>Default</key>
 				<dict>
 					<key>DisableDevice</key>
-					<true/>
+					<false/>
 					<key>MethodsToPoll</key>
 					<array/>
 					<key>PollingInterval</key>
@@ -181,7 +181,7 @@
 				<key>Default</key>
 				<dict>
 					<key>DisableDevice</key>
-					<true/>
+					<false/>
 				</dict>
 				<key>HP</key>
 				<dict>
@@ -215,7 +215,7 @@
 				<key>Default</key>
 				<dict>
 					<key>DisableDevice</key>
-					<true/>
+					<false/>
 					<key>Temperatures</key>
 					<dict>
 						<key>Thermal Zone</key>

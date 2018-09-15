@@ -1,6 +1,7 @@
 # macOS on Dell XPS 9360
 
 This repository contains a sample configuration to run macOS (Currently High Sierra `10.13.6`) on a Dell XPS 9360
+
 This repository is forked from darkvoid’s repository. Changes are below:
 
 ## Changes from original repository

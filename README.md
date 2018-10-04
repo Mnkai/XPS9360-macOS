@@ -8,7 +8,7 @@ This repository is forked from darkvoid’s repository. Changes are below:
 
 - MacBookPro15,2 SMBIOS
 - FV2 support w/ internal keyboard (Pre-release UEFI drivers)
-- kexts are all injected by clover (except AppleHDA patch related ones)
+- kexts are all injected by clover
 - Experimental VirtualSMC instead of FakeSMC (`virtualsmc` branch)
 
 ## Tested environment

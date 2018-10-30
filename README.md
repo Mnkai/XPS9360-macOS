@@ -1,3 +1,7 @@
+## Notice
+This repository is abandoned since I bought a real mac hardware.
+Please check upstream repository instead.
+
 # macOS on Dell XPS 9360
 
 This repository contains a sample configuration to run macOS (Currently High Sierra `10.13.6`) on a Dell XPS 9360
